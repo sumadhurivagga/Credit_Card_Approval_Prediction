@@ -44,3 +44,11 @@ A Streamlit app for predicting credit approval using a trained Random Forest mod
 
 - The model file `credit_model.pkl` is excluded from Git by `.gitignore` because binary files are better stored separately.
 - If you want to publish the app to GitHub, commit the code and push using your own remote repository.
+
+- ## 🎥 Demo Video
+
+Watch the project demo here:
+
+https://drive.google.com/file/d/1RYJUGtEgjRhE0JFef769IN2QqKmx-AMq/view?usp=drivesdk
+
+
