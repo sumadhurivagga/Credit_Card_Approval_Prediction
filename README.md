@@ -1,4 +1,4 @@
-# SmartBridge Credit Approval App
+# Credit_Card_Approval_Prediction
 
 A Streamlit app for predicting credit approval using a trained Random Forest model.
 
