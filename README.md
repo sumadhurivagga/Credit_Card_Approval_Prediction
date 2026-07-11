@@ -1,6 +1,6 @@
 # Credit_Card_Approval_Prediction
 
-A Streamlit app for predicting credit approval using a trained Random Forest model.
+A Machine Learning web application that predicts whether a credit card application will be approved or rejected based on applicant details. The model is built using Python, Scikit-learn, Random Forest, and Streamlit.
 
 ## Files
 - `app.py`: Streamlit application that loads `credit_model.pkl` and collects user input.
